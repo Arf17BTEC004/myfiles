@@ -1,0 +1,12 @@
+#SET-6
+S={2,22,10,10,40}
+S1={2,22,10,40}
+S2={1,2,3,4,10}
+A=S1&S2
+print(A)
+B=S1^S2
+print(B)
+C=S1-S2
+print(C)
+D=S1/S2
+print(D)
